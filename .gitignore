@@ -1,0 +1,22 @@
+# Clés API et variables d'environnement
+.env
+.env.*
+
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Base vectorielle ChromaDB
+chroma_db/
+
+# Base de données SQLite générée
+boutique.db
+
+# Fichiers système
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log

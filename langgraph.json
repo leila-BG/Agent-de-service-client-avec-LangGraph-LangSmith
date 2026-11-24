@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agent_boutique": "./studio.py:agent"
+  },
+  "env": ".env"
+}
